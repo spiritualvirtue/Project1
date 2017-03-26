@@ -18,6 +18,11 @@
         "level": 1,
         "note": "",
         "skillId": 10
+      },
+      {
+        "level": 1,
+        "note": "",
+        "skillId": 9
       }
     ],
     "name": "Hero",
